@@ -1,0 +1,35 @@
+[33mcommit 343b64f9bab21fb09d01027e2d62ef49d9f798e5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: lakrounehamza <lakrounehamza10@gmail.com>
+Date:   Sun Oct 20 23:28:40 2024 +0200
+
+    switchy sur les breanch avec les commende switch et ckeckout et suprime le branch avec paramitr -d
+
+[33mcommit e8217ca94d77a6892beaf446c733aaa5f7b5b422[m
+Author: lakrounehamza <lakrounehamza10@gmail.com>
+Date:   Sun Oct 20 21:45:33 2024 +0200
+
+    aplique le commande branche pour ecre un branch hamzabranch
+
+[33mcommit 9a375ea87db0063a7919322a1a0bf98730ffa6b5[m
+Author: lakrounehamza <lakrounehamza10@gmail.com>
+Date:   Sun Oct 20 21:23:49 2024 +0200
+
+    envoi  le dep https://github.com/ismaillakroune/ismaillakroune dans mon depo
+
+[33mcommit 8d554721b0c70a68dca4fcb41d60765bdd0f87bb[m
+Author: lakrounehamza <lakrounehamza10@gmail.com>
+Date:   Sun Oct 20 21:20:56 2024 +0200
+
+    aplique commande clone
+
+[33mcommit f671e77208fe88abf2b478de7d81aa50b754a044[m
+Author: lakrounehamza <lakrounehamza10@gmail.com>
+Date:   Sun Oct 20 21:08:39 2024 +0200
+
+    creat file readme
+
+[33mcommit f64c5b867378268b69d4dd4516c24b1af05e265b[m
+Author: lakrounehamza <lakrounehamza10@gmail.com>
+Date:   Sun Oct 20 20:49:54 2024 +0200
+
+    creat fichire
